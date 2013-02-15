@@ -1,7 +1,7 @@
 Sample Heroku luvit app
 =======================
 
-Sample luvit http://luvit.io/ app for Heroku. Deployed at http://hello-luvit.herokuapp.com/
+Sample luvit (http://luvit.io/) app for Heroku. Deployed at http://hello-luvit.herokuapp.com/
 
 Based on https://github.com/Skomski/heroku-buildpack-luvit/tree/master/test
 
