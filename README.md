@@ -8,11 +8,11 @@ Based on https://github.com/Skomski/heroku-buildpack-luvit/tree/master/test
 Usage
 -----
 
-    $ git clone git@github.com:cistov/heroku-luvit-sample.git
+    $ git clone git://github.com/cistov/heroku-luvit-sample.git
 
     $ cd heroku-luvit-sample
 
-    $ heroku create --stack cedar --buildpack http://github.com/cistov/heroku-buildpack-luvit.git yourappname
+    $ heroku create --buildpack http://github.com/cistov/heroku-buildpack-luvit.git yourappname
 
     $ git push heroku master
     ...
