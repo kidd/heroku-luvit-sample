@@ -1,6 +1,8 @@
 Sample Heroku luvit app
 =======================
 
+Based on https://github.com/Skomski/heroku-buildpack-luvit/tree/master/test
+
 Usage
 -----
 
