@@ -25,3 +25,9 @@ Usage
     -----> Compiled slug size: 1.5MB
 
 Your luvit app will be detected if it has the file `package.lua` in the root.
+
+
+http://sentiment-api-wrapper.herokuapp.com/ |
+git@heroku.com:sentiment-api-wrapper.git
+Git remote heroku added
+
